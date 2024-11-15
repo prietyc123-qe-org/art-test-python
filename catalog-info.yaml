@@ -14,6 +14,7 @@ metadata:
     backstage.io/kubernetes-id: art-test-python 
     backstage.io/techdocs-ref: dir:. 
     janus-idp.io/tekton: art-test-python
+    jfrog-artifactory/image-name: bootstrap
   tags: ["python", "pip", "flask", "sscs", "sbom", "acs"] 
 spec:
   type: service
